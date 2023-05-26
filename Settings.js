@@ -22,9 +22,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['no lu'] //masukin no kalian
-global.namaowner = ['nama lu'] //ganti dengan nama kalian
-global.namabot = ['𝙰𝙽𝚈𝙰-𝙼𝙳'] // nama bot
+global . owner  = [ '254716223069' ] //enter your number 
+global . ownername  = [ 'Trayoh' ] //replace with your name
+global . namebot  = [ 'BIGcY' ] // name bot
 global.footer = ['𝙰𝙽𝚈𝙰-𝙼𝙳 𝙱𝚈 𝚁𝙸𝚂𝙺𝙸𝙶𝙰𝙽𝚉'] //footer nya di ganti terserah
 global.premium = ['No premium user'] //premium user 
 global.packname = '𝚁𝚒𝚜𝚔𝚒𝙶𝚊𝚗𝚣' //packname nya
